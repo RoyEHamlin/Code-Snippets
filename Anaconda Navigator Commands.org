@@ -3,6 +3,8 @@
 :REFERENCE: https://medium.com/i-want-to-be-the-very-best/installing-packages-from-github-with-conda-commands-ebf10de396f4
 :ADDED_DATE: <2022-10-12 Wed 11:13>
 :END:
+- Note taken on [2022-10-12 Wed 11:28] \\
+  test
 * conda activate MyEnvironmentName                                :navigator:
 :PROPERTIES:
 :REFERENCE: https://medium.com/i-want-to-be-the-very-best/installing-packages-from-github-with-conda-commands-ebf10de396f4
