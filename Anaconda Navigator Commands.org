@@ -1,0 +1,25 @@
+* conda create --name MyEnvironmentName                           :navigator:
+:PROPERTIES:
+:REFERENCE: https://medium.com/i-want-to-be-the-very-best/installing-packages-from-github-with-conda-commands-ebf10de396f4
+:ADDED_DATE: <2022-10-12 Wed 11:13>
+:END:
+* conda activate MyEnvironmentName                                :navigator:
+:PROPERTIES:
+:REFERENCE: https://medium.com/i-want-to-be-the-very-best/installing-packages-from-github-with-conda-commands-ebf10de396f4
+:ADDED_DATE: <2022-10-12 Wed 11:13>
+:END:
+* conda install git                                               :navigator:
+:PROPERTIES:
+:REFERENCE: https://medium.com/i-want-to-be-the-very-best/installing-packages-from-github-with-conda-commands-ebf10de396f4
+:ADDED_DATE: <2022-10-12 Wed 11:13>
+:END:
+* conda install pip                                               :navigator:
+:PROPERTIES:
+:REFERENCE: https://medium.com/i-want-to-be-the-very-best/installing-packages-from-github-with-conda-commands-ebf10de396f4
+:ADDED_DATE: <2022-10-12 Wed 11:13>
+:END:
+** pip install git+git://github.com/yourname/projectname.git
+:PROPERTIES:
+:REFERENCE: https://medium.com/i-want-to-be-the-very-best/installing-packages-from-github-with-conda-commands-ebf10de396f4
+:ADDED_DATE: <2022-10-12 Wed 11:13>
+:END:
