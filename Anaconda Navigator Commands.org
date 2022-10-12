@@ -39,6 +39,9 @@
 :ADDED_DATE: <2022-10-12 Wed 11:33>
 :REFERENCE: https://techras.wordpress.com/2019/02/13/how-to-change-the-default-working-directory-of-jupyter-and-jupyter-lab-in-anaconda-navigator-on-windows-environment/
 :END:
+- Reference :: <2022-10-12 Wed 11:33>
+- Date Added :: https://techras.wordpress.com/2019/02/13/how-to-change-the-default-working-directory-of-jupyter-and-jupyter-lab-in-anaconda-navigator-on-windows-environment/
+  
 1. Activate environment via command prompt
 2. Create file "jupyter_notebook_config.py"
 3. Run "jupyter notebook --generate-config"
